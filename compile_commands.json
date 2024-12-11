@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/me/Projects/CPP/Aoc/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles/five.dir/five.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/five.dir/five.cpp.o -c /home/me/Projects/CPP/Aoc/five.cpp",
+  "file": "/home/me/Projects/CPP/Aoc/five.cpp",
+  "output": "CMakeFiles/five.dir/five.cpp.o"
+},
+{
+  "directory": "/home/me/Projects/CPP/Aoc/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles/four.dir/four.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/four.dir/four.cpp.o -c /home/me/Projects/CPP/Aoc/four.cpp",
+  "file": "/home/me/Projects/CPP/Aoc/four.cpp",
+  "output": "CMakeFiles/four.dir/four.cpp.o"
+},
+{
+  "directory": "/home/me/Projects/CPP/Aoc/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles/one.dir/one.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/one.dir/one.cpp.o -c /home/me/Projects/CPP/Aoc/one.cpp",
+  "file": "/home/me/Projects/CPP/Aoc/one.cpp",
+  "output": "CMakeFiles/one.dir/one.cpp.o"
+},
+{
+  "directory": "/home/me/Projects/CPP/Aoc/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles/seven.dir/seven.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/seven.dir/seven.cpp.o -c /home/me/Projects/CPP/Aoc/seven.cpp",
+  "file": "/home/me/Projects/CPP/Aoc/seven.cpp",
+  "output": "CMakeFiles/seven.dir/seven.cpp.o"
+},
+{
+  "directory": "/home/me/Projects/CPP/Aoc/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles/six.dir/six.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/six.dir/six.cpp.o -c /home/me/Projects/CPP/Aoc/six.cpp",
+  "file": "/home/me/Projects/CPP/Aoc/six.cpp",
+  "output": "CMakeFiles/six.dir/six.cpp.o"
+},
+{
+  "directory": "/home/me/Projects/CPP/Aoc/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles/three.dir/three.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/three.dir/three.cpp.o -c /home/me/Projects/CPP/Aoc/three.cpp",
+  "file": "/home/me/Projects/CPP/Aoc/three.cpp",
+  "output": "CMakeFiles/three.dir/three.cpp.o"
+},
+{
+  "directory": "/home/me/Projects/CPP/Aoc/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles/two.dir/two.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/two.dir/two.cpp.o -c /home/me/Projects/CPP/Aoc/two.cpp",
+  "file": "/home/me/Projects/CPP/Aoc/two.cpp",
+  "output": "CMakeFiles/two.dir/two.cpp.o"
+}
+]
