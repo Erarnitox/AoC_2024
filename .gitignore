@@ -1,0 +1,8 @@
+*
+
+!*.txt
+!*.cpp
+!*.json
+!*.md
+
+!.gitignore
